@@ -49,7 +49,7 @@ JWT_SECRET=your_secret_key
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/SarthakMaluskar/CRUDwAUTH
+git clone https://github.com/SarthakMaluskar/CRUDwAUTH.git
 cd assignment
 ```
 
